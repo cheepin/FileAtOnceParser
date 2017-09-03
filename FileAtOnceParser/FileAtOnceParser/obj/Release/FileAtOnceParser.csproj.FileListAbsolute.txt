@@ -1,0 +1,8 @@
+C:\Users\fujit\Documents\ConsoleTool_Repo\FileAtOnceParser\FileAtOnceParser\bin\Release\FileAtOnceParser.exe.config
+C:\Users\fujit\Documents\ConsoleTool_Repo\FileAtOnceParser\FileAtOnceParser\bin\Release\FileAtOnceParser.exe
+C:\Users\fujit\Documents\ConsoleTool_Repo\FileAtOnceParser\FileAtOnceParser\bin\Release\FileAtOnceParser.pdb
+C:\Users\fujit\Documents\ConsoleTool_Repo\FileAtOnceParser\FileAtOnceParser\bin\Release\FileUtil.dll
+C:\Users\fujit\Documents\ConsoleTool_Repo\FileAtOnceParser\FileAtOnceParser\bin\Release\FileUtil.pdb
+C:\Users\fujit\Documents\ConsoleTool_Repo\FileAtOnceParser\FileAtOnceParser\obj\Release\FileAtOnceParser.csproj.CoreCompileInputs.cache
+C:\Users\fujit\Documents\ConsoleTool_Repo\FileAtOnceParser\FileAtOnceParser\obj\Release\FileAtOnceParser.exe
+C:\Users\fujit\Documents\ConsoleTool_Repo\FileAtOnceParser\FileAtOnceParser\obj\Release\FileAtOnceParser.pdb
